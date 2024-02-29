@@ -1,3 +1,10 @@
+# Word from Coding Manager
+
+Everyone must edit your code in your own branch
+
+!!!
+Merge the code to main branch can only do my manager
+
 # ITMS_Frontend
 
 This template should help get you started developing with Vue 3 in Vite.
